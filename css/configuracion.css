@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+section{
+    width: 1300px;
+}
+
+:root{
+    --color1 : rgb(240, 205, 52);
+    --color2 : rgb(0, 0, 0);
+    --color3 :  rgb(0, 217, 255);
+    --color4 : rgb(85, 1, 241);
+    --color5 : rgb(255, 255, 255);
+}
